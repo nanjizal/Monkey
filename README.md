@@ -1,5 +1,5 @@
 # Monkey
-[Monkey demo](https://nanjizal.github.io/Monkey/html5/index.html)
+[Monkey demo](https://nanjizal.github.io/Monkey/build/html5/index.html)
 
 Monkey single class demo based on cutdown and extension of https://github.com/Kha-Samples/Kharira
 
